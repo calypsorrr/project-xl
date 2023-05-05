@@ -226,6 +226,8 @@ button {
 .logo {
     width: 18%;
     float: left;
+    width: 180px;
+    height: 140px;
 }
 .navbar {
     padding: 20px 30px;
@@ -264,6 +266,8 @@ button {
     width: 100%;
     float: left;
     padding-top: 40px;
+    width: 500px;
+    height: 200px;
 }
 
 .video_text{
