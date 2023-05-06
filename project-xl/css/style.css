@@ -226,7 +226,7 @@ button {
 .logo {
     width: 18%;
     float: left;
-    width: 180px;
+    width: 170px;
     height: 140px;
 }
 .navbar {
@@ -266,8 +266,8 @@ button {
     width: 100%;
     float: left;
     padding-top: 40px;
-    width: 500px;
-    height: 200px;
+    width: 380px;
+    height: 300px;
 }
 
 .video_text{
@@ -359,6 +359,9 @@ button {
     width: 100%;
     float: left;
     padding-top: 50px;
+    background-color: #555;
+    box-shadow: 0 0 5px 10px #555;
+
 }
 
 .about_text{
@@ -622,7 +625,11 @@ button {
 
 .image_6{
     width: 100%;
-    float: left;
+    float: right;
+    width: 400px;
+    height: 300px;
+    
+
 }
 
 .email_box {
@@ -665,7 +672,7 @@ button {
 }
 
 .main_bt {
-    background: #ed1c24;
+    background: orange;
     border: none;
     color: #faf9f9;
     width: 160px;
